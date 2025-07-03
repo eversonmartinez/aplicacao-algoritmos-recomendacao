@@ -1,0 +1,13 @@
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+plotly
+cufflinks
+json5
+scipy
+seaborn
+zipp
+gensim
+pyarrow
